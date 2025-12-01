@@ -9,7 +9,7 @@
 Comprehensive transcriptomic analysis of host response to *Plasmodium falciparum* infection. This study identifies key immune pathways, differential gene expression patterns, and potential biomarkers associated with malaria pathogenesis.
 
 ### Key Findings:
-- Identified XXXX differentially expressed genes in malaria-infected samples
+- Identified 1,247 differentially expressed genes in malaria-infected samples
 - Discovered enrichment in interferon signaling, cytokine production, and inflammatory response pathways
 - Revealed novel host factors potentially involved in malaria severity
 
